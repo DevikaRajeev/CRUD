@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Sushmitha",
+      "salary": "20000",
+      "company": "Infosys",
+      "id": 5
+    },
+    {
+      "name": "Devika R",
+      "salary": "40000",
+      "company": "Infosys",
+      "id": 6
+    },
+    {
+      "name": "Nirmala",
+      "salary": "30000",
+      "company": "Wipro",
+      "id": 7
+    },
+    {
+      "name": "Anju",
+      "salary": "60000",
+      "company": "IBM",
+      "id": 8
+    }
+  ]
+}
